@@ -6,5 +6,7 @@ Drop the packaged module into the mods folder of your versionAfter that, move th
 
 ### Other languages
 [中文简体](README.zh.md)
+
 [中文繁體](README.tw.md)
+
 [English](README.md)
