@@ -3,7 +3,7 @@
 	"id": "createfix",
 	"version": "${version}",
 	"name": "createfix",
-	"description": "A module to repair SkyMachine and Kirin processors.",
+	"description": "A module to repair SkyMachine and Kirin processors. When using this module, you need to use it together with the config file.",
 	"authors": [
 		"Redstone233"
 	],
